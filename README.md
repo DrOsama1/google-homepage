@@ -1,0 +1,1 @@
+This is the first HTML/CSS project. It mimics google search page. I will test the basic HTML and CSS skills I have learned so far
